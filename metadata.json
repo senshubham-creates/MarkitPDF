@@ -1,0 +1,6 @@
+{
+  "name": "FluentPDF - Windows PDF Reader & Annotator",
+  "description": "A Windows-styled PDF reader and continuous excerpt annotator with margin notes, custom themes, and export formats tailored for Notion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
